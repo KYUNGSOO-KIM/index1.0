@@ -33,7 +33,7 @@ aside{float: left;}
 	padding: 10px;
 	width: 340px;
 	display: inline-block;
-	background-color: #fff;
+	background-color: pink;
 }
 #main article .tit_div{border-bottom: #ccc 1px solid}
 #main #youtube{float: right; width: 380px; height: 240px;}
